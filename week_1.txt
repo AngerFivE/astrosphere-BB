@@ -1,0 +1,5 @@
+learning version control week 1
+nama saya fandi
+saya kelas A
+
+learning git 2
